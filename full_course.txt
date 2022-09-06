@@ -1,0 +1,39 @@
+1-open>>command nodejs>>node>> نقدر نكتب الكود براحتنا 
+
+**const name="ahmed" >>name>> ahmed
+**ctrl+c علشان اخرج من node
+
+2- ctrl+shift+ ذ 
+علشان اقدر اجيب terminal
+
+3-https://www.johnsmilga.com/  
+لينك موقع جوهان صاحب الكورس
+https://github.com/john-smilga/node-express-course
+دا لينك github
+
+
+4-
+___dirname       -path to curenrt directory
+___filename      -file name 
+require           -function to use module(commonJS)
+module            -info about current module(file)
+process           -info about env where the program is being executed
+
+5-
+
+## code بيطبع القيمه كل ثانيه
+
+setInterval(()=>{
+    console.log("rokaya")
+},1000);
+
+## ctrl+c   to stop the order 
+
+وقفت عند الدقيقة 29
+
+
+
+
+
+
+
